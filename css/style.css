@@ -1,0 +1,30 @@
+/* Global css start */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+/* Global css stop */
+
+/* Header part start */
+
+/* Header part stop */
